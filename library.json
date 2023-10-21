@@ -1,0 +1,22 @@
+{
+  "name": "Yalinka",
+  "keywords": "LED, xmass, tree",
+  "description": "Allows an Arduino to control PCB Xmass Tree with 42 independant LEDs",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/LEDVineCode.git"
+  },
+  "authors": 
+  [
+    {
+      "name": "Vasyl Yudin",
+      "email": "Vasyl.Yudin@gmail.com",
+      "url": "http://www.ledvine.com/",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
